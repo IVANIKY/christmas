@@ -1,0 +1,150 @@
+* {
+    box-sizing: border-box;
+    margin: 0; 
+
+}
+.body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+}
+.contenedor{
+    width: 100%;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: purple; 
+}
+.menu{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0.5rem ;
+}
+.imagen{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.home{
+    height: 10rem;
+    width: 37rem;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.niña{
+    height: 10rem;
+    width: 37rem;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: xx-large;
+    font-style: italic;
+}
+.niño{
+    height: 10rem;
+    width:37rem;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-style: italic;
+    font-size: xx-large;
+    font-style: italic;
+}
+.portada{
+    
+    width: 50%;
+    height: 30rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+}
+.sec1{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0.5rem;
+}
+.caja1{
+    height: 30rem;
+    width: 30rem;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}.caja2{
+    height: 30rem;
+    width: 30rem;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja3{
+    height: 30rem;
+    width: 30rem;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec2{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0.5rem;
+}
+.cajaA{
+    height: 20rem;
+    width: 21rem;
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0.5rem;
+}
+.cajaB{
+    height: 20rem;
+    width: 21rem;
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0.5rem;
+}
+.circleA{
+    height: 80%;
+    width: 80%;
+    border-radius: 100%;
+    background-color: rgb(255, 0, 200);
+}
+.circleB{
+    height: 80%;
+    width: 80%;
+    border-radius: 100%;
+    background-color: rgb(255, 0, 200);
+}
+.final{
+    height: 10rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:aliceblue;
+    margin: 0.5rem;
+    font-size: xx-large;
+    font-style: italic;
+}
